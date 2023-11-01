@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "三人称カメラの仕様を戻す v1.0.0",
+    "description": "三人称カメラで音をプレイヤー基準の仕様に戻します\nby YuuhaLand",
+    "uuid": "10e009c4-64d9-4b8a-95a0-6e3c5b08a820",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "0d521bf9-1e99-4692-948d-9a5d8b2f8849",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
